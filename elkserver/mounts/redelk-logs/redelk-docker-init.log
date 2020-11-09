@@ -1,0 +1,306 @@
+[*]    Nov  9 07:03 Starting installer
+[*] Adding redelk user
+
+[*] Setting dir permisisons for redelk user
+
+[*] Setting ssh key persmisisons for redelk user
+chmod: cannot access '/home/redelk/.ssh/id*': No such file or directory
+
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+[*]    Nov  9 07:05 Starting installer
+[*] Adding redelk user
+
+[*] Setting dir permisisons for redelk user
+
+[*] Setting ssh key persmisisons for redelk user
+chmod: cannot access '/home/redelk/.ssh/id*': No such file or directory
+
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (6) Could not resolve host: redelk-elasticsearch
+[!] Elasticsearch not up, sleeping another few seconds.
+[!] Elasticsearch still not up, waited for way too long. Continuing and hoping for the best.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-kibana port 5601: Connection refused
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana not up yet, sleeping another few seconds.
+[!] Kibana still not up, waited for way too long. Continuing and hoping for the best.
+[*] Installing Elasticsearch ILM policy
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+[!] Elasticsearch still not up, waited for way too long. Continuing and hoping for the best.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+
+[*] Installing Elasticsearch index templates
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+[*]    Nov  9 07:25 Starting installer
+[*] Adding redelk user
+
+[*] Setting dir permisisons for redelk user
+
+[*] Setting ssh key persmisisons for redelk user
+chmod: cannot access '/home/redelk/.ssh/id*': No such file or directory
+
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+[!] Elasticsearch not up, sleeping another few seconds.
+[*]    Nov  9 07:29 Starting installer
+[*] Adding redelk user
+
+[*] Setting dir permisisons for redelk user
+
+[*] Setting ssh key persmisisons for redelk user
+chmod: cannot access '/home/redelk/.ssh/id*': No such file or directory
+
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
+curl: (7) Failed to connect to redelk-elasticsearch port 9200: Connection refused
+[!] Elasticsearch not up, sleeping another few seconds.
